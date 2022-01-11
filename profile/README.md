@@ -1,6 +1,6 @@
 <hr/>
 <p align="center">
-  <img src="./img/banner.png?raw=true" style="border:1px; solid #eaeaea;" width=""/>
+  <img src="https://github.com/11st-corp/.github/blob/main/profile/img/banner.png?raw=true" style="border:1px; solid #eaeaea;" width=""/>
 </p>
 <hr/>
 <br />
@@ -25,6 +25,6 @@
 <br />
 <hr />
 <p align="center">
-    <img width="7%" alt="" src="./_raw/11st_logo.png">
+    <img width="7%" alt="" src="https://github.com/11st-corp/.github/blob/main/profile/img/11st_logo.png?raw=true">
 </p>
 <hr />
