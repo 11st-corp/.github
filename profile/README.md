@@ -25,6 +25,6 @@
 <br />
 <hr />
 <p align="center">
-    <img width="7%" alt="" src="./img/11st_logo.png">
+    <img width="7%" alt="" src="https://raw.githubusercontent.com/11st-corp/.github/main/profile/img/11st_logo.png?raw=true">
 </p>
 <hr />
