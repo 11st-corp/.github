@@ -19,10 +19,6 @@
 </div>
 
 <br />
-<div align="right">
-문의: eyko@sk.com
-</div>
-<br />
 <hr />
 <p align="center">
     <img width="7%" alt="" src="https://raw.githubusercontent.com/11st-corp/.github/main/profile/img/11st_logo.png?raw=true">
